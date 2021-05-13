@@ -7,20 +7,23 @@
 - 🤔 Interested in language modeling, transfer learning, semantic clustering, and other dialogue related NLP fields.
 - ⚡ ENTJ at work, INTJ at home
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://naubull2.github.io/)](https://naubull2.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naubull2@gmail.com)](mailto:naubull2@gmail.com)
+
 ## Git Stats
+
+<div align="center">
+   <p align="center">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=naubull2&count_private=true&show_icons=true&hide_title=true" />
+   </p>
+</div>
 
 <div align="center">
     <p align="center">
         <a href="https://github.com/naubull2/github-readme-stats"><img alt="naubull2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naubull2&langs_count=10&layout=compact#" /></a>
     </p>
 </div>
-<div align="center">
-   <p align="center">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=naubull2&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-   </p>
-</div>
 
-<br>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=naubull2&theme=flat&no-frame=true&margin-w=30" />
