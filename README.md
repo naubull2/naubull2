@@ -5,7 +5,7 @@
 - 🔭 ML/NLP engineer & researcher working on open domain dialogue model/systems.
 - 🌱 Works at Kakao Enterprise. previously at Kakao.
 - 🤔 Interested in language modeling, transfer learning, semantic clustering, and other dialogue related NLP fields.
-- ⚡ ENTJ at work, INTJ at home
+- ⚡ ENTJ
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://naubull2.github.io/)](https://naubull2.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naubull2@gmail.com)](mailto:naubull2@gmail.com)
