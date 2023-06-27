@@ -10,6 +10,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://naubull2.tistory.com/)](https://naubull2.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naubull2@gmail.com)](mailto:naubull2@gmail.com)
 
+<!--
 ## Git Stats
 
 <div align="center">
@@ -28,5 +29,5 @@
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=naubull2&theme=flat&no-frame=true&margin-w=30" />
 </div>
-
+-->
 <br>
