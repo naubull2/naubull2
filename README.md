@@ -3,7 +3,7 @@
 </div>
 
 - 🔭 ML/NLP engineer & researcher working on open domain dialogue model/systems.
-- 🌱 Currently works at Kakao Enterprise.
+- 🌱 Currently works at Kakao Brain.
 - 🤔 Interested in language modeling, meta learning, semantic clustering, and other dialogue related NLP fields.
 - ⚡ ENTJ
 
