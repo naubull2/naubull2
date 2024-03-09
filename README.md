@@ -2,8 +2,8 @@
    <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 
-- 🔭 ML/NLP engineer & researcher working on open domain dialogue model/systems.
-- 🌱 Currently works at Kakao Brain.
+- 🔭 ML/NLP engineer & researcher mainly working on open domain dialogue model/systems and semantic clustering.
+- 🌱 Currently works at Coupang 🚀
 - 🤔 Interested in language modeling, meta learning, semantic clustering, and other dialogue related NLP fields.
 - ⚡ ENTJ
 
