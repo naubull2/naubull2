@@ -2,10 +2,13 @@
    <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 
-- 🔭 ML/NLP engineer & researcher mainly working on open domain dialogue model/systems and semantic clustering.
-- 🌱 Currently works at Coupang 🚀
-- 🤔 Interested in language modeling, meta learning, semantic clustering, and other dialogue related NLP fields.
-- ⚡ ENTJ
+🔭 Staff Machine Learning Engineer  with a passion for NLP and building practical, data-centric AI.
+
+🌱 Currently at Coupang , I'm focused on solving complex catalog data challenges, using LLMs and RAG to drive automation and enhance data quality. I previously spent my time at Kakao architecting large-scale, open-domain dialogue systems.
+
+🤔 I'm always interested in language modeling, meta learning, semantic clustering, and all things related to building robust dialogue systems.
+
+⚡ ENTJ
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://naubull2.tistory.com/)](https://naubull2.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naubull2@gmail.com)](mailto:naubull2@gmail.com)
