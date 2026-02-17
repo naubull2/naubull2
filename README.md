@@ -8,7 +8,6 @@
 
 🤔 I'm always interested in language modeling, meta learning, semantic clustering, and all things related to building robust dialogue systems.
 
-⚡ ENTJ
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://naubull2.tistory.com/)](https://naubull2.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naubull2@gmail.com)](mailto:naubull2@gmail.com)
