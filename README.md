@@ -2,7 +2,7 @@
    <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 
-🔭 Staff Machine Learning Engineer  with a passion for NLP and building practical, data-centric AI.
+🔭 Machine Learning Engineer  with a passion for NLP and building practical, data-centric AI.
 
 🌱 I'm focused on solving complex data challenges, using LLMs and RAG to drive automation and enhance data quality. I previously spent my time architecting large-scale, open-domain dialogue systems.
 
